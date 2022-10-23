@@ -1,0 +1,13 @@
+﻿  try.cpp
+C:\Users\EliteBook\source\repos\opencvtry\opencvtry\try.cpp(16,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\EliteBook\source\repos\opencvtry\opencvtry\try.cpp(16,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\EliteBook\source\repos\opencvtry\opencvtry\try.cpp(42,70): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  opencvtry.vcxproj -> C:\Users\EliteBook\source\repos\opencvtry\x64\Debug\opencvtry.exe
